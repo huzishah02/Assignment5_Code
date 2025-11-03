@@ -1,9 +1,6 @@
 name: SE333 Continuous Integration
 
 on:
-name: SE333 Continuous Integration
-
-on:
   push:
     branches: [ main ]
 
